@@ -4,7 +4,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1 align="center">Hi , I'm Pushpa Kumari</h1>
+    <h1 align="center">Hi , I'm Mahesh Lakkapally</h1>
 <h3 align="center">Web Developer</h3>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpakumari5117&label=Profile%20views&color=0e75b6&style=flat" alt="pushpakumari5117" /> </p>
